@@ -18,3 +18,8 @@ dependencies {
     implementation group: 'io.appium', name: 'java-client', version: '7.6.0'
 
 }
+test {
+    useTestNG() {
+        suites "./src/test/resources/suite.xml"
+    }
+}
