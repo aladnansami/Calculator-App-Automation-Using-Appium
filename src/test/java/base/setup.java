@@ -9,7 +9,7 @@ import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 public class setup {
-    AndroidDriver driver;
+     public AndroidDriver driver;
     public static final String  PACKAGE_ID="com.google.android.calculator";
 
     @BeforeClass
