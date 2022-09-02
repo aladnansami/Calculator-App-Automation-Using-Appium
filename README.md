@@ -15,5 +15,7 @@ you can use this link
 # Langueges 
 Java
 
+# How you can use?
+Just clone the repo 
 
 
